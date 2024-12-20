@@ -14,10 +14,11 @@ Find the original tutorial on how to make a webhook with cloudflare [here](https
 9. Now publish your place and join the game.
     It should now display a player joined message if you have done this correctly.
 
-## How to use this
-Head to the playerJoined.lua and put it in a server script in roblox.
+## How to use cloudflare-expanded 
 
 To use the cloudflare-expanded you can request the urls with the perfix `?webhookId` like this
 
 `https://your-dyno-url.workers.dev/?webhookId=webhook1`
 `https://your-dyno-url.workers.dev/?webhookId=webhook2`
+
+You can now edit the script in roblox studio to have mutliple webhooks, You can set up admin logs or anything that needs to be logged with this.
