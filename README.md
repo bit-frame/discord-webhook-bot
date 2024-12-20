@@ -4,7 +4,7 @@
 Find the original tutorial on how to make a webhook with cloudflare [here](https://devforum.roblox.com/t/webhooks-how-to-use-cloudflare-workers-for-sending-discord-messages/3296869)
 
 1. Create a Webhook on discord.
-2. Go to `Cloudflare > Workers > Create` a Worker and create a worker.
+2. Go to `Cloudflare > Workers > Create` a Worker and create a worker. Make sure the worker supports `URL` and `URLSearchParams`
 3. Go to `cloudflare.js` and paste into the code editor
 4. Replace `yourwebhookurl` with the Discord Webhook you created.
 5. Press Deploy and let it deploy
