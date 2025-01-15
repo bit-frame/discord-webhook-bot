@@ -1,4 +1,4 @@
-# Discord Cloudflare Worker Proxy
+# BitHook (Formerly Discord Cloudflare Worker Proxy)
 
 ## Tutorial
 Find the original tutorial on how to make a webhook with cloudflare [here](https://devforum.roblox.com/t/webhooks-how-to-use-cloudflare-workers-for-sending-discord-messages/3296869)
